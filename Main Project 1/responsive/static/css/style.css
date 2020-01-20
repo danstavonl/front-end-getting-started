@@ -1,0 +1,230 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	position: relative;
+	font-size: .9em;
+	font-family: Barbie;
+	min-height: 100%;
+	margin: 0;
+	background: linear-gradient(to top, #5436d0, #81d481, #ffaf77);
+}
+
+header {
+	position: relative;
+	width: 100%;
+	background-color: #000050;
+	height: 60px;
+}
+
+header .header-wrapper {
+	position: relative;
+	width: 80%;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+header .header-wrapper a img {
+	max-width: 40px;
+	float: left;
+}
+
+header .header-wrapper nav.nav-one,
+.header-wrapper nav.nav-two {
+	list-style-type: none;
+	margin-top: 4px;
+}
+
+header .header-wrapper nav.nav-one li,
+.header-wrapper nav.nav-two li {
+	position: relative;
+	float: left;
+	padding-left: 10px;
+}
+
+header .header-wrapper nav.nav-one li a,
+.header-wrapper nav.nav-two li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: #ffaf77 !important;
+}
+
+li nav.dropdown-content {
+	display: none;
+}
+
+li:hover nav.dropdown-content {
+	display: block !important;
+	z-index: 9;
+	background: #000050;
+	position: absolute;
+	width: 100px;
+	border-bottom-right-radius: 5px;
+}
+
+nav.nav-two nav.dropdown-content li {
+	float: none;
+	position: relative;
+	padding: 7px;
+}
+
+header .header-wrapper div.form {
+	clear: left;
+	position: relative;
+	top: -35px;
+	left: 50px;
+}
+
+header .header-wrapper div.form input[type=text] {
+	width: 30%;
+	border-style: solid;
+	border-radius: 5px;
+	outline: none;
+}
+
+header .header-wrapper div.form button {
+	background-color: #ffaf77;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+}
+
+div.wrapper {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	height: auto;
+}
+
+div.wrapper div.sub-header {
+	width: 100%;
+	max-width: 500px;
+	margin: 30px auto;
+}
+
+div.wrapper div.sub-header img {
+	max-width: 500px;
+}
+
+div.wrapper div.sub-title {
+	background-color: #fff;
+	height: 60px;
+	margin-bottom: 15px;
+	padding: 5px;
+}
+
+div.wrapper div.sub-title img {
+	max-width: 38px;
+	float: left;
+	position: fixed;
+	z-index: 9;
+}
+
+div.wrapper div.sub-title nav {
+	list-style: none;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 40px;
+}
+
+div.wrapper div.sub-title nav li {
+	float: left;
+	padding-left: 15px;
+}
+
+div.wrapper div.sub-title nav li a {
+	text-decoration: none;
+}
+
+main {
+	display: block;
+	position: relative;
+	width: 100%;
+}
+
+div.advert-banner {
+	background-image: url('../../images/dj.jpg');
+	height: 450px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
+}
+
+div.characters {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #a9d7ff;
+	padding: 50px 20px;
+}
+
+div.characters aside {
+	width: 43%;
+	margin-left: 30px;
+	margin-bottom: 30px;
+}
+
+div.characters aside img {
+	max-width: 250px;
+	border-radius: 10px;
+}
+
+main div.bottom-link {
+	display: flex;
+	justify-content: space-around;
+	color: #fff;
+	margin: 30px 0px;
+}
+
+hr {
+	display: block;
+	margin: 60px 0px;
+}
+
+main div.footer-search-box {
+	width: 500px;
+	margin: 0 auto;
+}
+
+main div.footer-search-box input[type=text] {
+	width: 100%;
+	padding: 10px;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: #e4e4e4;
+	outline: none;
+}
+
+footer {
+	width: 100%;
+	max-width: 850px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+
+footer nav.ft-nav-one,
+footer nav.ft-nav-two {
+	list-style-type: none;
+	margin-top: 30px;
+	display: inline-block;
+}
+
+footer nav.ft-nav-one li,
+footer nav.ft-nav-two li {
+	float: left;
+	margin-left: 20px;
+}
+
+footer nav.ft-nav-one li a,
+footer nav.ft-nav-two li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+footer p {
+	margin: 30px 0px;
+}
