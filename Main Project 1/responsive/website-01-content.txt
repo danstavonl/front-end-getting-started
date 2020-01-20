@@ -1,0 +1,86 @@
+
+<!-- Characters section-->
+<h3>Woody</h3>
+<p>How could we separate Woody and Buzz, you ask? Well, because Woody just edges his spacey BFF in the character stakes, springing fully-formed from the screen as a living, breathing, er, child's plaything.</p>
+
+
+<h3>Buzz</h3>
+<p>The beauty of Buzz Lightyear is that, beneath the superficiality of the initial premise he's an utterly delusional toy who thinks he's a real Space Ranger there's real emotional depth and endless capacity for reinvention.</p>
+
+
+<h3>Antz</h3>
+<p>The fact that, when he's praised for laughing in the face of death, Z explains that, "Actually, I generally just make belittling comments and snicker behind death's back."</p>
+
+
+<h3>Boo</h3>
+<p>When it comes to Monsters, Inc., it's throw a dart time. You could go for Boo, arguably the cutest kid in movie history. Or Sulley, John Goodman's lovable walking rug of a monster.</p>
+
+
+<h3>Coraline</h3>
+<p>Neil Gaiman's dark-tinged children's tale combines perfectly with stop-motion genius Henry Selick's signature style, and Coraline herself pops off the screen even without the 3D glasses. </p>
+
+
+<h3>Carl</h3>
+<p>Cranky, grumpy, irascible, cantankerous. Carl Fredericksen is all of these things and more, but the genius of Up's lead (the first of two characters from their arguable masterpiece to make this list) is that we know right from the off why he ended up that way.</p>
+
+
+<h3>Shifu</h3>
+<p>It takes a very light touch to take a venerated martial arts master - the archetype that inspired Yoda, Mr. Miyagi and dozens more - and make him fresh, while satisfying all the demands traditionally associated with the character: namely, enough neatly-phrased expressions of wisdom and advice to fill a thousand fortune cookies.</p>
+
+<h3>Penguin</h3>
+<p>While you'd be hard pressed to remember the leads in this zoo adventure, the monkeys and penguins run away with the show - particularly the leader of the Dirty Dozen-style penguins, hijacking tankers like he was born in the Navy SEALs. Skipper's equal parts unflappable and paranoid, leading his troops with unquestioned authority.</p>
+
+
+<h3>Sophie</h3>
+<p>Here's a perfect of marriage of director, author and heroine. Hayao Miyazaki always creates complex, believable heroines. Diana Wynne Jones always writes twisty-turny, slightly trippy plots.</p>
+
+
+<h3>Insectosaurus</h3>
+<p>Other characters in this witty B-movie pastiche are wittier, chattier or have better hair (no, not you B.O.B.). But Insectosaurus is the one who really charms us, despite expressing himself chiefly in unintelligible roars (provided by director Conrad Vernon) and a fascination for bright, shiny lights.</p>
+
+
+
+
+<!-- Bottom links section -->
+<aside>
+    <h3>Popular Videos</h3>
+    <p><a href="#">Love in the ocean</a></p>
+    <p><a href="#">Happy Clock</a></p>
+    <p><a href="#">Skyrocket</a></p>
+</aside>
+<aside>
+    <h3>Games</h3>
+    <p><a href="#">Call of Duty</a></p>
+    <p><a href="#">Hitman</a></p>
+    <p><a href="#">GTA: China Town</a></p>
+</aside>
+<aside>
+    <h3>Apps and Games</h3>
+    <p><a href="#">Infinity</a></p>
+    <p><a href="#">CAC Gospel Hymn Book</a></p>
+    <p><a href="#">Free Fall</a></p>
+</aside>
+<aside>
+    <h3>Gallery</h3>
+    <p><a href="#">Simpson Gallery</a></p>
+    <p><a href="#">Frozen Gallery</a></p>
+    <p><a href="#">Olaf Gallery</a></p>
+</aside>
+
+
+
+<!-- Footer links section-->
+<nav class="ft-nav-one">
+    <li><a href="#">About Anvibes</a></li>
+    <li><a href="#">Anvibes Help</a></li>
+    <li><a href="#">Careers</a></li>
+    <li><a href="#">Contact Us</a></li>
+    <li><a href="#">Advertise With Us</a></li>
+</nav>
+<nav class="ft-nav-two">
+    <li><a href="#">Terms of Use</a></li>
+    <li><a href="#">Legal Notices</a></li>
+    <li><a href="#">Privacy Policy</a></li>
+    <li><a href="#">Your State Privacy Rights</a></li>
+</nav>
+    
