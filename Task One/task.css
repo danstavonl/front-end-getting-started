@@ -1,0 +1,230 @@
+html {
+	min-height: 100%;
+}
+
+body {
+	position: relative;
+	width: 80%;
+	margin: 0 auto;
+	background-color: #e2e1e1;
+}
+
+header {
+	position: relative;
+	height: 60px;
+	color: #fff;
+	text-align: center;
+	background: linear-gradient(to right, #2a2ab3, #dc6052);
+}
+
+header div {
+	position: relative;
+	top: 30%;
+}
+
+main section.section-one {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+	height: 60px;
+}
+
+main section.section-one aside.main-logo {
+	background-color: purple;
+	color: #fff;
+	width: 10%;
+	text-align: center;
+}
+
+main section.section-one aside.main-logo div {
+	margin-top: 20px;
+}
+
+main section.section-one aside.main-navigation {
+	background-color: #ed6484;
+	width: 85%;
+	text-align: center;
+	color: #fff;
+}
+
+main section.section-one aside.main-navigation div {
+	margin-top: 20px;
+}
+
+main section.section-two {
+	height: 350px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+
+main section.section-two aside.left-bar {
+	height: inherit;
+	width: 40%;
+	color: #fff;
+	background: linear-gradient(to right, #b573aa, #31319e);
+}
+
+main section.section-two aside.left-bar div {
+	padding: 30px;
+}
+
+main section.section-two aside.right-bar {
+	display: flex;
+	flex-direction: column;
+	height: inherit;
+	width: 56%;
+}
+
+main section.section-two aside.right-bar div.main-caption-post {
+	height: 150px;
+	background-color: lightcoral;
+	color: #fff;
+}
+
+main section.section-two aside.right-bar div.main-caption-post div {
+	padding: 30px;
+}
+
+main section.section-two aside.right-bar div.sub-caption-post {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+	height: 180px;
+}
+
+main section.section-two aside.right-bar div.sub-caption-post div.one {
+	background-color: chocolate;
+	width: 45%;
+	color: #fff;
+}
+
+main section.section-two aside.right-bar div.sub-caption-post div.one div {
+	padding: 30px;
+}
+
+main section.section-two aside.right-bar div.sub-caption-post div.two {
+	background-color: cornflowerblue;
+	width: 45%;
+	color: #fff;
+}
+
+main section.section-two aside.right-bar div.sub-caption-post div.two div {
+	padding: 30px;
+}
+
+/** End of section two **/
+
+/** begin section three styling **/
+
+main section.section-three {
+	height: 350px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+
+main section.section-three aside.right-bar {
+	height: inherit;
+	width: 40%;
+	color: #fff;
+	background: linear-gradient(to right, #3f6732, #21d01e);
+}
+
+main section.section-three aside.right-bar div {
+	padding: 30px;
+}
+
+main section.section-three aside.left-bar {
+	display: flex;
+	flex-direction: column;
+	height: inherit;
+	width: 56%;
+}
+
+main section.section-three aside.left-bar div.main-caption-post {
+	height: 150px;
+	background-color: #9e2222;
+	color: #fff;
+}
+
+main section.section-three aside.left-bar div.main-caption-post div {
+	padding: 30px;
+}
+
+main section.section-three aside.left-bar div.sub-caption-post {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 20px;
+	height: 180px;
+}
+
+main section.section-three aside.left-bar div.sub-caption-post div.one {
+	background-color: #0e7c9e;
+	width: 45%;
+	color: #fff;
+}
+
+main section.section-three aside.left-bar div.sub-caption-post div.one div {
+	padding: 30px;
+}
+
+main section.section-three aside.left-bar div.sub-caption-post div.two {
+	background-color: #ed6484;
+	width: 45%;
+	color: #fff;
+}
+
+main section.section-three aside.left-bar div.sub-caption-post div.two div {
+	padding: 30px;
+}
+
+/** end of section three styling **/
+
+main section.section-four {
+	position: relative;
+	margin: 120px auto;
+	width: 70%;
+}
+
+main section.section-four div.sales-tag {
+	position: relative;
+	height: 60px;
+	color: #fff;
+	text-align: center;
+	background-color: yellowgreen;
+}
+
+main section.section-four div.sales-tag div {
+	position: relative;
+	top: 20px;
+}
+
+main footer {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+	height: 60px;
+}
+
+main footer aside.footer-logo {
+	background-color: purple;
+	color: #fff;
+	width: 10%;
+	text-align: center;
+}
+
+main footer aside.footer-logo div {
+	margin-top: 20px;
+}
+
+main footer aside.footer-navigation {
+	background-color: #ed6484;
+	width: 85%;
+	text-align: center;
+	color: #fff;
+}
+
+main footer aside.footer-navigation div {
+	margin-top: 20px;
+}
