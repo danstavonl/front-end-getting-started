@@ -1,0 +1,15 @@
+<div>#2a2ab3, #dc6052</div>
+<div>purple</div>
+<div>#ed6484</div>
+<div>#b573aa, #31319e</div>
+<div>lightcoral</div>
+<div>chocolate</div>
+<div>cornflowerblue</div>
+<div>#9e2222</div>
+<div>#0e7c9e</div>
+<div>#ed6484</div>
+<div>#3f6732, #21d01e</div>
+<div>yellowgreen</div>
+<div>purple</div>
+<div>#ed6484</div>
+           
